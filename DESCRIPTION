@@ -22,7 +22,7 @@ Description: ona.R provides functions to pull data from ona.org
     read data from disk, and to convert ona forms into dataframes.
     ona.R also parses data into the right formats according to the form
     that was used to collect data, and offers some convenience functions
-    appropriate for data collected through surveys
+    appropriate for data collected through surveys.
 License: Dual-licensed. GPL for commercial uses. BSD for non-commercial uses.
 URL: https://github.com/onaio/ona.r
-BugReports: https://github.com/onaio/ona.r/issues
+BugReports: https://github.com/onaio/ona.r/issues.
