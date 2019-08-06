@@ -5,8 +5,8 @@ Title: ona.R -- pulling data from ona.io repositories easily
 Author: Prabhas Pokharel (Modi Research Group, Columbia University)
 Clone: Jonathan Munene (Ona Kenya Ltd.)
 Maintainer: Jonathan Munene <jmunene@ona.io>
+Depends: R (>= 3.1.0
 Imports:
-    R (>= 2.15.1),
     RJSONIO (>= 0.96),
     stringr,
     plyr,
